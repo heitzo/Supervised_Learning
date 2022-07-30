@@ -1,2 +1,2 @@
 # Supervised_learning
-Brian model to predict high-risk loans 
+Trainn model to predict high-risk loans 
